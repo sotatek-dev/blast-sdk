@@ -1,7 +1,7 @@
 {
   "name": "@blast/sdk",
   "license": "MIT",
-  "version": "3.0.2",
+  "version": "0.0.1-dev",
   "description": "🛠 An SDK for building applications on top of Blast.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

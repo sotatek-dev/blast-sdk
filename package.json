@@ -1,5 +1,5 @@
 {
-  "name": "@blast/sdk",
+  "name": "@blast/v2-sdk",
   "license": "MIT",
   "version": "0.0.1-dev",
   "description": "🛠 An SDK for building applications on top of Blast.",
